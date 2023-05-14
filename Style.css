@@ -11,3 +11,21 @@
 #carouselExampleSlidesOnly { background-color: #63D297;}
 
 .jumbotron3 {  background-color: #63D297; color: white; }
+
+.img-fluid {  max-width: 100% }
+
+.heroImg { width: 100%; padding: 12%; background-color: #EF4E34;
+    background: url(Images/image\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+
+  html { background-color: #63D297;}
+
+  .proimg { width: 100%; padding: 30%; background-color: #EF4E34;
+    background: url(Images/PSD_7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
